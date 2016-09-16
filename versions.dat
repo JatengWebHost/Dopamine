@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Applications>
+  <Application Name="Dopamine">
+    <Version Configuration="2">1.0.0.0</Version>
+  </Application>
+  <Application Name="Knowte">
+    <Version Configuration="2">1.0.460.0</Version>
+    <Version Configuration="1">1.1.465.0</Version>
+  </Application>
+</Applications>
