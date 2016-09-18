@@ -1,0 +1,11 @@
+;aiu;
+
+[Update]
+Name = Dopamine
+ProductVersion = 1.0.0.0
+URL = http://www.example.com/downloads/Dopamine.exe
+Size = 1023488
+MD5 = 458143b525ec0a5519073ab03a421833
+ServerFileName = Dopamine.exe
+RegistryKey = HKUD\Software\JatengWebHost\Dopamine\Version
+Version = 1.0.0.0
