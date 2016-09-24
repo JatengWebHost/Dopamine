@@ -2,7 +2,7 @@
 
 [Update]
 Name = Dopamine
-ProductVersion = 1.0.729.0
+ProductVersion = 1.1.729.0
 URL = https://github.com/JatengWebHost/Dopamine/releases/download/v.1.0.729/Dopamine.1.0.729.0.exe
 Size = 9089559
 MD5 = 4a804d99820afe69b314bcb54dc6584b
