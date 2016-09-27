@@ -2,14 +2,18 @@
 
 [Update]
 Name = Dopamine
-ProductVersion = 1.0.729.0
-URL = https://github.com/JatengWebHost/Dopamine/releases/download/v.1.0.729/Dopamine.1.0.729.0.exe
-Size = 9089559
-MD5 = 4a804d99820afe69b314bcb54dc6584b
-ServerFileName = Dopamine 1.0.729.0.exe
+ProductVersion = 1.1.733.0
+URL = https://github.com/JatengWebHost/Dopamine/releases/download/v.1.1.733/Dopamine.1.1.733.0.exe
+Size = 9205721
+MD5 = 5b456a2628a5f45071b3528504da6d8c
+ServerFileName = Dopamine 1.1.733.0.exe
 RegistryKey = HKUD\Software\JatengWebHost\Dopamine\Version
-Version = 1.0.729.0
-Feature = - [Added] Added Last.fm scrobbling
-Feature1 = - [Added] Added an Artist information screen
-Feature2 = - [Fixed] Search field not always visible when coming back from Settings or Information pages
+Version = 1.0.0.0
+Feature = - [Added] Added similar artists
+Feature1 = - [Fixed] Fixed a nullreferenceexception, tweaked the layout of the artist info screen
+Feature2 = - [Other] Further tweaked the arists info screen
+Feature3 = - [Other] Further tweaked artist info screen
+Feature4 = - [Other] More tweaks to arist info
+Feature5 = - [Removed] Removed duplicate code to create BitmapImages
+Feature6 = - [Fixed] Fixed bugs in the artist info screen
 AutoCloseApplication = [APPDIR]Dopamine.exe|;;AlwaysRestart
