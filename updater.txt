@@ -2,18 +2,23 @@
 
 [Update]
 Name = Dopamine
-ProductVersion = 1.1.733.0
-URL = https://github.com/JatengWebHost/Dopamine/releases/download/v.1.1.733/Dopamine.1.1.733.0.exe
-Size = 9205721
-MD5 = 5b456a2628a5f45071b3528504da6d8c
-ServerFileName = Dopamine 1.1.733.0.exe
+ProductVersion = 1.2.748.0
+URL = https://github.com/JatengWebHost/Dopamine/releases/download/1.2.748/Dopamine.1.2.748.0.exe
+Size = 9717744
+MD5 = 6ebf5d8a00a2ee32ad59f2ed7d0abb34
+ServerFileName = Dopamine 1.2.748.0.exe
+Flags = Sys64
 RegistryKey = HKUD\Software\JatengWebHost\Dopamine\Version
-Version = 1.1.733.0
-Feature = - [Added] Added similar artists
-Feature1 = - [Fixed] Fixed a nullreferenceexception, tweaked the layout of the artist info screen
-Feature2 = - [Other] Further tweaked the arists info screen
-Feature3 = - [Other] Further tweaked artist info screen
-Feature4 = - [Other] More tweaks to arist info
-Feature5 = - [Removed] Removed duplicate code to create BitmapImages
-Feature6 = - [Fixed] Fixed bugs in the artist info screen
+Version = 1.2.748.0
+Feature = - [Added] Added an Artist information screen
+Feature1 = - [Added] Added download of album covers from the Internet
+Feature2 = - [Added] Added lyrics support (edit lyrics + screen to display lyrics while playing)
+Feature3 = - [Added] Added an option to modify how much volume changes when scrolling with the mouse on the volume bar
+Feature4 = - [Changed] Updated the Spanish translation
+Feature5 = - [Changed] Updated the Greek translation
+Feature6 = - [Changed] "See you later" screen when closing is only displayed when there are background tasks remaining
+Feature7 = - [Changed] Improved the "Follow song" description as it was confusing
+Feature8 = - [Changed] Improved the quality of the cloud screen covers
+Feature9 = - [Fixed] Fixed a big memory leak
+Feature10 = - [Fixed] Dopamine now respects Windows case insensitivity for files and folder names
 AutoCloseApplication = [APPDIR]Dopamine.exe|;;AlwaysRestart
