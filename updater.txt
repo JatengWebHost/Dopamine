@@ -2,14 +2,14 @@
 
 [Update]
 Name = Dopamine
-ProductVersion = 1.2.780.1
+ProductVersion = 1.2.780.0
 URL = https://github.com/JatengWebHost/Dopamine/releases/download/V.1.2.780/Dopamine.1.2.780.0.exe
 Size = 9746942
 MD5 = cd1c8e9925e9e572b24cf5731ae805b1
 ServerFileName = Dopamine 1.2.780.0.exe
 Flags = Sys64
 RegistryKey = HKUD\Software\JatengWebHost\Dopamine\Version
-Version = 1.2.748.1
+Version = 1.2.748.0
 Feature = - [Added] Added lyrics support (edit lyrics + screen to display lyrics while playing)
 Feature1 = - [Added] Added an option to modify how much volume changes when scrolling with the mouse on the volume bar
 Feature2 = - [Added] Collection refresh on startup is now optional
